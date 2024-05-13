@@ -1,0 +1,9 @@
+[2024-03-10 16:42:09.609] [info] Logseq App(0.10.7) Starting... 
+[2024-03-10 16:42:09.615] [info] restore proxy settings {:type "system"}
+[2024-03-10 16:42:09.616] [info] set proxy to {:type "system"}
+[2024-03-10 16:42:12.222] [debug] :electron.handler/watch-dir {:path "/home/ken/.logseq/config"}
+[2024-03-10 16:42:13.673] [debug] window-all-closed Quitting...
+[2024-04-01 16:38:13.546] [info] Logseq App(0.10.7) Starting... 
+[2024-04-01 16:38:13.560] [info] restore proxy settings {:type "system"}
+[2024-04-01 16:38:13.562] [info] set proxy to {:type "system"}
+[2024-04-01 16:38:18.751] [debug] :electron.handler/watch-dir {:path "/home/ken/.logseq/config"}

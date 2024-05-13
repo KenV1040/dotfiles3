@@ -1,0 +1,68 @@
+2024-04-07 17:08:40,202 - root - DEBUG - Thingy was ran
+2024-04-07 17:08:40,206 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): rule34.xxx:443
+2024-04-07 17:08:40,405 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=random HTTP/1.1" 302 None
+2024-04-07 17:08:40,481 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=view&id=1336222 HTTP/1.1" 200 None
+2024-04-07 17:08:40,487 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.rule34.xxx:443
+2024-04-07 17:08:40,613 - urllib3.connectionpool - DEBUG - https://api.rule34.xxx:443 "GET /index.php?page=dapi&s=post&q=index&id=1336222&json=1 HTTP/1.1" 200 None
+2024-04-07 17:08:40,615 - root - DEBUG - Found an image
+2024-04-07 17:08:40,618 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-cdn.rule34.xxx:443
+2024-04-07 17:08:40,724 - urllib3.connectionpool - DEBUG - https://api-cdn.rule34.xxx:443 "GET /images/1293/7cabcba810877d9e17ea0c82c5c4574dfd386859.jpg HTTP/1.1" 200 175970
+2024-04-07 17:08:40,781 - root - DEBUG - Downloaded an image
+2024-04-07 17:20:46,251 - root - DEBUG - Thingy was ran
+2024-04-07 17:20:46,253 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): rule34.xxx:443
+2024-04-07 17:20:46,377 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=random HTTP/1.1" 302 None
+2024-04-07 17:20:46,430 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=view&id=5563745 HTTP/1.1" 200 None
+2024-04-07 17:20:46,437 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.rule34.xxx:443
+2024-04-07 17:20:46,584 - urllib3.connectionpool - DEBUG - https://api.rule34.xxx:443 "GET /index.php?page=dapi&s=post&q=index&id=5563745&json=1 HTTP/1.1" 200 None
+2024-04-07 17:20:46,587 - root - DEBUG - Found an image
+2024-04-07 17:20:46,590 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-cdn.rule34.xxx:443
+2024-04-07 17:20:46,746 - urllib3.connectionpool - DEBUG - https://api-cdn.rule34.xxx:443 "GET /images/4885/636161b5cf428cbb2c5fdb50b4e12649.jpeg HTTP/1.1" 200 139126
+2024-04-07 17:20:46,799 - root - DEBUG - Downloaded an image
+2024-04-07 17:31:09,380 - root - DEBUG - Thingy was ran
+2024-04-07 17:31:09,383 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): rule34.xxx:443
+2024-04-07 17:31:09,534 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=random HTTP/1.1" 302 None
+2024-04-07 17:31:09,590 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=view&id=2120630 HTTP/1.1" 200 None
+2024-04-07 17:31:09,596 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.rule34.xxx:443
+2024-04-07 17:31:09,718 - urllib3.connectionpool - DEBUG - https://api.rule34.xxx:443 "GET /index.php?page=dapi&s=post&q=index&id=2120630&json=1 HTTP/1.1" 200 None
+2024-04-07 17:31:09,720 - root - DEBUG - Found an image
+2024-04-07 17:31:09,723 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-cdn.rule34.xxx:443
+2024-04-07 17:31:09,850 - urllib3.connectionpool - DEBUG - https://api-cdn.rule34.xxx:443 "GET /images/1957/0adab3c80339cd252ea7e960ededb90227f93d88.png HTTP/1.1" 200 2607274
+2024-04-07 17:31:10,139 - root - DEBUG - Downloaded an image
+2024-04-07 17:44:31,088 - root - DEBUG - Thingy was ran
+2024-04-07 17:44:31,089 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): rule34.xxx:443
+2024-04-07 17:44:31,209 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=random HTTP/1.1" 302 None
+2024-04-07 17:44:31,262 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=view&id=4316012 HTTP/1.1" 200 None
+2024-04-07 17:44:31,268 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.rule34.xxx:443
+2024-04-07 17:44:31,400 - urllib3.connectionpool - DEBUG - https://api.rule34.xxx:443 "GET /index.php?page=dapi&s=post&q=index&id=4316012&json=1 HTTP/1.1" 200 None
+2024-04-07 17:44:31,403 - root - DEBUG - Found an image
+2024-04-07 17:44:31,406 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-cdn.rule34.xxx:443
+2024-04-07 17:44:31,527 - urllib3.connectionpool - DEBUG - https://api-cdn.rule34.xxx:443 "GET /images/3812/799300fef69ca5c225b38b8eddab4c3afa37aa3b.jpg HTTP/1.1" 200 5832666
+2024-04-07 17:44:31,913 - root - DEBUG - Downloaded an image
+2024-04-07 18:14:42,142 - root - DEBUG - Thingy was ran
+2024-04-07 18:14:42,144 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): rule34.xxx:443
+2024-04-07 18:14:42,274 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=random HTTP/1.1" 302 None
+2024-04-07 18:14:42,328 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=view&id=7916853 HTTP/1.1" 200 None
+2024-04-07 18:14:42,334 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.rule34.xxx:443
+2024-04-07 18:14:42,520 - urllib3.connectionpool - DEBUG - https://api.rule34.xxx:443 "GET /index.php?page=dapi&s=post&q=index&id=7916853&json=1 HTTP/1.1" 200 None
+2024-04-07 18:14:42,523 - root - DEBUG - Found an image
+2024-04-07 18:14:42,525 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-cdn.rule34.xxx:443
+2024-04-07 18:14:42,643 - urllib3.connectionpool - DEBUG - https://api-cdn.rule34.xxx:443 "GET /images/6066/a200abe78a7357f87e885d681b3f8fc4.png HTTP/1.1" 200 671885
+2024-04-07 18:14:42,802 - root - DEBUG - Downloaded an image
+2024-04-07 19:02:20,330 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): rule34.xxx:443
+2024-04-07 19:02:20,445 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=random HTTP/1.1" 302 None
+2024-04-07 19:02:20,509 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=view&id=4894368 HTTP/1.1" 200 None
+2024-04-07 19:02:20,514 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.rule34.xxx:443
+2024-04-07 19:02:20,626 - urllib3.connectionpool - DEBUG - https://api.rule34.xxx:443 "GET /index.php?page=dapi&s=post&q=index&id=4894368&json=1 HTTP/1.1" 200 None
+2024-04-07 19:04:13,610 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.rule34.xxx:443
+2024-04-07 19:04:13,991 - urllib3.connectionpool - DEBUG - https://api.rule34.xxx:443 "GET /index.php?page=dapi&s=post&q=index&limit=1000&tags=1920x1080&json=1 HTTP/1.1" 200 None
+2024-04-07 19:04:14,084 - root - DEBUG - [1920, 1080]
+2024-04-07 19:04:14,084 - root - DEBUG - Not an image
+2024-04-07 19:04:45,479 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): rule34.xxx:443
+2024-04-07 19:04:45,604 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=random HTTP/1.1" 302 None
+2024-04-07 19:04:45,669 - urllib3.connectionpool - DEBUG - https://rule34.xxx:443 "GET /index.php?page=post&s=view&id=2073789 HTTP/1.1" 200 None
+2024-04-07 19:04:45,674 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.rule34.xxx:443
+2024-04-07 19:04:45,795 - urllib3.connectionpool - DEBUG - https://api.rule34.xxx:443 "GET /index.php?page=dapi&s=post&q=index&id=2073789&json=1 HTTP/1.1" 200 None
+2024-04-07 19:04:45,799 - root - DEBUG - [850, 1100]
+2024-04-07 19:04:45,800 - root - DEBUG - Found an image
+2024-04-07 19:04:45,804 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-cdn.rule34.xxx:443
+2024-04-07 19:04:45,912 - urllib3.connectionpool - DEBUG - https://api-cdn.rule34.xxx:443 "GET /images/1915/014bfa1f59390f902729240ac4b34c5d332bab40.jpg HTTP/1.1" 200 271373
